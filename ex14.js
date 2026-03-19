@@ -1,0 +1,1 @@
+//Criar um programa para verificar se um número é par ou ímpar, usando OPERADOR 
