@@ -1,0 +1,1 @@
+//Criar um programa para verificar se a temperatura quando menor que 15 é frio, quando entre 16 e 25 é agradável e quando maior que que 26 é quente.
